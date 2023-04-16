@@ -193,7 +193,7 @@
 
     <name>Kafka Client</name>
     <description>Kafka LowLevel Client based on netty</description>
-    <url>https://github.com/protocol-laboratory</url>
+    <url>https://github.com/protocol-laboratory/kafka-client-netty</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
@@ -203,7 +203,7 @@
 
     <organization>
         <name>protocol-laboratory</name>
-        <url>https://github.com/kafka-client-netty</url>
+        <url>https://github.com/protocol-laboratory</url>
     </organization>
 
     <developers>
