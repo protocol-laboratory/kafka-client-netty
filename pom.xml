@@ -6,7 +6,7 @@
 
     <groupId>io.github.protocol-laboratory</groupId>
     <artifactId>kafka-client-netty-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <modules>
         <module>kafka-client-netty</module>
@@ -193,7 +193,7 @@
 
     <name>Kafka Client</name>
     <description>Kafka LowLevel Client based on netty</description>
-    <url>https://github.com/protocol-laboratory/kafka-client-netty</url>
+    <url>https://github.com/protocol-laboratory</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
